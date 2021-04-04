@@ -2,6 +2,8 @@
 
 ## Syllabus
 
+# You can download Anaconda using [this](https://www.anaconda.com/products/individual) link.
+
 ### [Lesson 0](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day0.ipynb)
 
 - What is Python?
