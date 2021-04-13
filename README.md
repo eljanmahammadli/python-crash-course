@@ -12,7 +12,7 @@
 - Data Types
 - Arithmetic Operations
 
-### [Lesson 1]
+### [Lesson 1](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day1.ipynb)
 
 - Logical Operations
 - Type Conversion
