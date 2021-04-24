@@ -4,6 +4,8 @@
 
 # You can download Anaconda using [this](https://www.anaconda.com/products/individual) link.
 
+# Do not forget to solve Python exercises on [HackerRank].(https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
+
 ### [Lesson 0](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day0.ipynb)
 
 - What is Python?
