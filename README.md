@@ -19,7 +19,7 @@
 - Indexing and Slicing on Strings
 - Lists
 
-### [Lesson 2]
+### [Lesson 2](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day2.ipynb)
 
 - If Conditions
 - While Loop
