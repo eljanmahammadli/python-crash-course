@@ -27,7 +27,7 @@
 - While Loop
 - For Loop
 
-### [Lesson 3]
+### [Lesson 3](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day3.ipynb)
 
 - Dictionaries
 - Sets
