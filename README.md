@@ -41,16 +41,8 @@
 - *args and *kwargs
 - Modules
 
-### [Lesson 5]
+### [Lesson 5](https://github.com/eljanmahammadli/python-crash-course/blob/master/Day5.ipynb)
 
 - Object Oriented Programming
 - Try-Except
-
-### [Lesson 6]
-
-- Introduction to NumPy
-
-### [Lesson 7]
-
-- Introduction to Pandas
 
